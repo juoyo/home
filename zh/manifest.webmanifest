@@ -1,0 +1,18 @@
+{
+  "name": "个人网站",
+  "short_name": "个人网站",
+  "lang": "zh-Hans",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/home/images/icon_hu43ee4b70cd41b88f540108a389565b41_3005_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/home/images/icon_hu43ee4b70cd41b88f540108a389565b41_3005_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/home/zh/?utm_source=web_app_manifest"
+}
